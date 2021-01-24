@@ -1,0 +1,49 @@
+﻿  Application.cpp
+  Color.cpp
+  glmath.cpp
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(12,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(27,17): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(43,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(53,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(53,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(72,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(87,17): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(103,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(600,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(618,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(618,33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(758,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(778,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Light.cpp
+  log.cpp
+  Main.cpp
+  ModuleAudio.cpp
+  ModuleCamera3D.cpp
+  ModuleInput.cpp
+  ModulePhysics3D.cpp
+  ModulePlayer.cpp
+  ModuleRenderer3D.cpp
+  ModuleSceneIntro.cpp
+D:\Universidad\2\Game Development\github\Physics-RaceCar\glmath.cpp(778,33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(150,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(193,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(255,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(259,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(262,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(276,33): warning C4244: 'argumento': conversión de 'uint' a 'float'; posible pérdida de datos
+  ModuleWindow.cpp
+  PhysBody3D.cpp
+  PhysVehicle3D.cpp
+D:\Universidad\2\Game Development\github\Physics-RaceCar\ModuleSceneIntro.cpp(282,32): warning C4244: 'argumento': conversión de 'uint' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\PhysVehicle3D.cpp(113,14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\PhysVehicle3D.cpp(123,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\PhysVehicle3D.cpp(124,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Universidad\2\Game Development\github\Physics-RaceCar\PhysVehicle3D.cpp(126,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Primitive.cpp
+  Timer.cpp
+D:\Universidad\2\Game Development\github\Physics-RaceCar\PhysVehicle3D.cpp(127,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 461 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  3D Physics.vcxproj -> D:\Universidad\2\Game Development\github\Physics-RaceCar\Release\3D Physics - class5.exe
