@@ -11,15 +11,15 @@ If the player wins the game restarts with the car in green color otherwise if th
 
 ## Controls
 ### Car 
--*Car Movement* -> W, A, S, D
--*Braking the car* -> SPACEBAR
--*Nitro* -> LEFT CTRL
+-Car Movement -> W, A, S, D
+-Braking the car -> SPACEBAR
+-Nitro -> LEFT CTRL
 ### Environment
--*Debug Mode* -> F1
--*Free Camera* -> F2
--*Restart* -> F7
--*Win* -> F8
--*Loose* -> F9
+-Debug Mode -> F1
+-Free Camera -> F2
+-Restart -> F7
+-Win -> F8
+-Loose -> F9
 
 ## Developers
 - David Montufo
